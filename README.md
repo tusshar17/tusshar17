@@ -16,7 +16,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=tusshar17&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=tusshar_17)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+<a href="https://gtce.itsvg.in/"><img src="https://gtce.itsvg.in/api?username=YOUR_USERNAME"/></a>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=tusshar17&limit=5&theme=dark&combine_all_yearly_contributions=true)
